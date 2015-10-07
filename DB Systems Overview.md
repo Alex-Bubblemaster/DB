@@ -6,18 +6,18 @@
 1.  What database models do you know?
 There are bany database models.
   * Hierarchical database model
-  ** created by IBM in the 60s - it has a tree like structure where each child can only have one parent and the whole tree needs to be traversed 
+   created by IBM in the 60s - it has a tree like structure where each child can only have one parent and the whole tree needs to be traversed 
   * Network model
-  ** It is a flexible way of representin objects and their relationships. The object types are nodes represented in a graph 
+  It is a flexible way of representin objects and their relationships. The object types are nodes represented in a graph 
   * Relational model
-  ** Data is organised in tuples(tables) - grouping any number of values together into a single compound value.
-  ** They provide a declarative method for specifying data and queries.
-  * Entity–relationship model
-  ** Describes the relationship between data and it's dependencies in an abstract way. It is very limiting as represents only 1 out of 14 possible models.
-  ** Replaced by tools that enable diagramming within relational DB Management Systems.
+Data is organised in tuples(tables) - grouping any number of values together into a single compound value.
+They provide a declarative method for specifying data and queries.
+Entity–relationship model
+Describes the relationship between data and it's dependencies in an abstract way. It is very limiting as represents only 1 out of 14 possible models.
+Replaced by tools that enable diagramming within relational DB Management Systems.
   * Enhanced entity–relationship model
-  ** The EER(Enhanced Entity Relationship) is closely related to OOP.
-  ** It builds on the ER model by adding super and sub- classes, specialization and generalization.
+The EER(Enhanced Entity Relationship) is closely related to OOP.
+It builds on the ER model by adding super and sub- classes, specialization and generalization.
   * Object model
   * Document model
   * Entity–attribute–value model
@@ -37,9 +37,9 @@ There are bany database models.
   * one-to-one
   ** Both tables can have only one record on either side of the relationship. Each primary key value relates to only one (or no) record in the related table. They're like spouses—you may or may not be married, but if you are, both you and your spouse have only one spouse.
   * one-to-many
-  ** he primary key table contains only one record that relates to none, one, or many records in the related table. This relationship is similar to the one between you and a parent. You have only one mother, but your mother may have several children.
+the primary key table contains only one record that relates to none, one, or many records in the related table. This relationship is similar to the one between you and a parent. You have only one mother, but your mother may have several children.
   * many-to-many
-  ** Each record in both tables can relate to any number of records (or no records) in the other table. For instance, if you have several siblings, so do your siblings (have many siblings). Many-to-many relationships require a third table, known as an associate or linking table, because relational systems can't directly accommodate the relationship.
+Each record in both tables can relate to any number of records (or no records) in the other table. For instance, if you have several siblings, so do your siblings (have many siblings). Many-to-many relationships require a third table, known as an associate or linking table, because relational systems can't directly accommodate the relationship.
 
 1.  When is a certain database schema normalized? What are the advantages of normalized databases?
 Database Normalisation is a technique of organizing the data in the database. Normalization is a systematic approach of decomposing tables to eliminate data redundancy and undesirable characteristics like Insertion, Update and Deletion Anamolies. It is a multi-step process that puts data into tabular form by removing duplicated data from the relation tables.
@@ -52,11 +52,11 @@ Normalization is used for mainly two purposes:
 1.  What are database integrity constraints and when are they used?
   * Integrity constraints are used to ensure accuracy and consistency of data in a relational database. It has to do with data validity.
 Data integrity is handled in a relational database through the concept of referential integrity. 
-  ** Primary Key Constraints
-  ** Unique Constraints
-  ** Foreign Key Constraints
-  ** NOT NULL Constraints
-  ** Check Constraints
+  * Primary Key Constraints
+  *Unique Constraints
+  * Foreign Key Constraints
+  * NOT NULL Constraints
+  *Check Constraints
 
 1.  Point out the pros and cons of using indexes in a database.
   * indices speed up searching for values in a certain column or group of columns
@@ -71,11 +71,11 @@ Structured Query Language is a special-purpose programming language designed for
   All operations are executed as a single unit. If one fails, all fail. They are used to ensure data integrity. Transaction is implemented in database using SQL keyword transaction, commit and rollback. Commit writes the changes made by transaction into database and rollback removes temporary changes logged in transaction log by database transaction.
   * Give an example.
 ATM Withdrawal usually goes like this:
-  ** 1. Verify account details.
-  ** 2. Accept withdrawal request
-  ** 3. Check balance
-  ** 4. Update balance
-  ** 5. Dispense money
+  * Verify account details.
+  * Accept withdrawal request
+  * Check balance
+  * Update balance
+  * Dispense money
 
 start transaction
 select balance from Account where Account_Number='9001';
