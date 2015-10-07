@@ -39,14 +39,11 @@ There are many database models.
   
 5.  Explain the different kinds of relationships between tables in relational databases.
   
-  * one-to-one
-     Both tables can have only one record on either side of the relationship. Each primary key value relates to only one (or      no) record in the related table. They're like spouses—you may or may not be married, but if you are, both you and your       spouse have only one spouse.
+  * *one-to-one* - Both tables can have only one record on either side of the relationship. Each primary key value relates to      only one (or no) record in the related table. They're like spouses—you may or may not be married, but if you are, both       you and your spouse have only one spouse.
 
-  * one-to-many
-     The primary key table contains only one record that relates to none, one, or many records in the related table. This         relationship is similar to the one between you and a parent. You have only one mother, but your mother may have several      children.
-  * many-to-many
+  * *one-to-many* - The primary key table contains only one record that relates to none, one, or many records in the related     table. This relationship is similar to the one between you and a parent. You have only one mother, but your mother may       have several children.
   
-   Each record in both tables can relate to any number of records (or no records) in the other table. For instance, if you      have several siblings, so do your siblings (have many siblings). Many-to-many relationships require a third table, known     as an associate or linking table, because relational systems can't directly accommodate the relationship.
+  * *many-to-many* - Each record in both tables can relate to any number of records (or no records) in the other table. For       instance, if you have several siblings, so do your siblings (have many siblings). Many-to-many relationships require a       third table, known as an associate or linking table, because relational systems can't directly accommodate the               relationship.
 
 6.  When is a certain database schema normalized? What are the advantages of normalized databases?
 
