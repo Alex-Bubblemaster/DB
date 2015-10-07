@@ -1,0 +1,18 @@
+<currentDirectory>
+	<name>DirectoryTraverseToXml</name>
+</currentDirectory>
+<directory path="..\..\bin" />
+<file name="App" extension=".config" />
+<file name="directories" extension=".xml" />
+<file name="DirectoryTraverseToXml" extension=".csproj" />
+<file name="TraverseToXML" extension=".cs" />
+<directory path="..\..\obj" />
+<file name="App" extension=".config" />
+<file name="directories" extension=".xml" />
+<file name="DirectoryTraverseToXml" extension=".csproj" />
+<file name="TraverseToXML" extension=".cs" />
+<directory path="..\..\Properties" />
+<file name="App" extension=".config" />
+<file name="directories" extension=".xml" />
+<file name="DirectoryTraverseToXml" extension=".csproj" />
+<file name="TraverseToXML" extension=".cs" />

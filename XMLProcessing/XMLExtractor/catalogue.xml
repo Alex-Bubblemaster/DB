@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalogue>
+  <album>
+    <artist>Rihanna</artist>
+    <name>Unapologetic</name>
+    <year>2012</year>
+    <producer>Def Jam Recordings</producer>
+    <price>10</price>
+    <song>
+      <title>Diamonds</title>
+      <duration>3.45</duration>
+    </song>
+    <song>
+      <title>Right now</title>
+      <duration>3.01</duration>
+    </song>
+    <song>
+      <title>Pour it up</title>
+      <duration>3.05</duration>
+    </song>
+    <song>
+      <title>What now</title>
+      <duration>4.45</duration>
+    </song>
+    <song>
+      <title>Stay</title>
+      <duration>3.25</duration>
+    </song>
+    <song>
+      <title>Get it Over With</title>
+      <duration>3.21</duration>
+    </song>
+  </album>
+  <album>
+    <artist>Drake</artist>
+    <name>Take Care</name>
+    <year>2011</year>
+    <producer>Aspire Music Group</producer>
+    <price>11.99</price>
+    <song>
+      <title>Over My Dead Body</title>
+      <duration>3.45</duration>
+    </song>
+    <song>
+      <title>Shot For Me</title>
+      <duration>3.01</duration>
+    </song>
+    <song>
+      <title>Take Care</title>
+      <duration>3.05</duration>
+    </song>
+    <song>
+      <title>Under Ground Kings</title>
+      <duration>4.45</duration>
+    </song>
+    <song>
+      <title>Make Me Proud(featuring Niki Minaj)</title>
+      <duration>3.25</duration>
+    </song>
+    <song>
+      <title>Lord Knows</title>
+      <duration>3.21</duration>
+    </song>
+  </album>
+  <album>
+    <artist>Sean Paul</artist>
+    <name>Tomahawk Technique</name>
+    <year>2012</year>
+    <producer>Atlantic Records</producer>
+    <price>10.99</price>
+    <song>
+      <title>Got 2 Love U</title>
+      <duration>3.45</duration>
+    </song>
+    <song>
+      <title>She Doesn't Mind</title>
+      <duration>3.01</duration>
+    </song>
+    <song>
+      <title>What I want</title>
+      <duration>3.05</duration>
+    </song>
+    <song>
+      <title>Put It On You</title>
+      <duration>4.45</duration>
+    </song>
+    <song>
+      <title>Roll Wid Di Don</title>
+      <duration>3.25</duration>
+    </song>
+    <song>
+      <title>Touch The Sky</title>
+      <duration>3.21</duration>
+    </song>
+  </album>
+  <album>
+    <artist>Sean Paul</artist>
+    <name>Dutty Rock</name>
+    <year>2002</year>
+    <producer>Atlantic Records</producer>
+    <price>24.99</price>
+    <song>
+      <title>Dutty Rock</title>
+      <duration>3.45</duration>
+    </song>
+    <song>
+      <title>Shout</title>
+      <duration>3.01</duration>
+    </song>
+    <song>
+      <title>Gimme the light</title>
+      <duration>3.05</duration>
+    </song>
+    <song>
+      <title>Like Glue</title>
+      <duration>4.45</duration>
+    </song>
+    <song>
+      <title>Get busy</title>
+      <duration>3.25</duration>
+    </song>
+    <song>
+      <title>I'm still in love with you</title>
+      <duration>3.21</duration>
+    </song>
+  </album>
+</catalogue>

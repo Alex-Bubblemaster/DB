@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<person>
+  <name>Mariika Petrova</name>
+  <address>Sofia</address>
+  <phone>12356478</phone>
+  <name>Georgi Chochkov</name>
+  <address>Belogradchik</address>
+  <phone>3261532123</phone>
+  <name>Brumbar Mirizliwkow</name>
+  <address>Tyulenowo</address>
+  <phone>1275636121</phone>
+</person>

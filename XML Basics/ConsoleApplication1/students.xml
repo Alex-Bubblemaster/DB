@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="XSLTStylesheet.xslt" ?>
+<students xmlns:students="urn:students">
+<student>
+  <name>John Doe</name>
+  <sex>Male</sex>
+  <dob>1980-04-11</dob>
+  <phone>0998354637</phone>
+  <email>john.doe@mail.ru</email>
+  <course>Software engineering</course>
+  <specialty>Web Developer</specialty>
+  <faculty-number>123456</faculty-number>
+  <exam>
+    <name>HTML</name>
+    <tutor>Jane Doe</tutor>
+    <score>Excellent</score>
+  </exam>
+  <exam>
+    <name>CSS</name>
+    <tutor>Martin Demolinov</tutor>
+    <score>Excellent</score>
+  </exam>
+  <exam>
+    <name>JavaScript</name>
+    <tutor>George Peshov</tutor>
+    <score>Pass</score>
+  </exam>
+</student>
+  <student>
+    <name>Jane Mane</name>
+    <sex>Female</sex>
+    <dob>1990-03-04</dob>
+    <phone>0998334637</phone>
+    <email>jane.mane@mail.co.uk</email>
+    <course>Software engineering</course>
+    <specialty>Mobile Developer</specialty>
+    <faculty-number>123457</faculty-number>
+    <exam>
+      <name>HTML</name>
+      <tutor>Jane Doe</tutor>
+      <score>Pass</score>
+    </exam>
+    <exam>
+      <name>CSS</name>
+      <tutor>Martin Demolinov</tutor>
+      <score>Excellent</score>
+    </exam>
+    <exam>
+      <name>JavaScript</name>
+      <tutor>George Peshov</tutor>
+      <score>Excellent</score>
+    </exam>
+  </student>
+  <student>
+    <name>Gosho Mosho</name>
+    <sex>Male</sex>
+    <dob>1997-03-04</dob>
+    <phone>0888354637</phone>
+    <email>goisho.mosho@mail.bg</email>
+    <course>Software engineering</course>
+    <specialty>QA Engineer</specialty>
+    <faculty-number>123458</faculty-number>
+    <exam>
+      <name>HTML</name>
+      <tutor>Jane Doe</tutor>
+      <score>Pass</score>
+    </exam>
+    <exam>
+      <name>CSS</name>
+      <tutor>Martin Demolinov</tutor>
+      <score>Pass</score>
+    </exam>
+    <exam>
+      <name>JavaScript</name>
+      <tutor>George Peshov</tutor>
+      <score>Pass</score>
+    </exam>
+  </student>
+</students>
+<!--2. Create XML document students.xml, which contains structured description of students.
+For each student you should enter information for his name, sex, birth date, phone, email, course, 
+specialty, faculty number and a list of taken exams (exam name, tutor, score).
+Add default namespace for students "urn:students".-->

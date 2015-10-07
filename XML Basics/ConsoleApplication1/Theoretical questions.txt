@@ -1,0 +1,24 @@
+﻿1.What does the XML language represent? What is it used for?
+
+XML stands for exensible markup language. It used to transport data regardless of the software or hardware.
+It is just information wrapped in tags.
+It is similar to HTML but it enjoys the lack of restriction of what the tags can contain.
+This helps it be very descriptive.
+
+3. What do namespaces represent in an XML document? What are they used for?
+
+Namespaces help avoid conflicts by providing uniquely named elements. It is the developer who chooses what the namespace is going to be. 
+It must be declared in the following syntax, using the reserved attribute 'xmlns' -> xmlns:prefix(here is the namespace)="URI".
+This is the namespace name. If a URL is used, it is simply interpreted as a string, it does not contain any code.
+
+4. Explore http://en.wikipedia.org/wiki/Uniform_Resource_Identifier to learn more about URI, URN and URL definitions.
+
+URN - Uniform Resource Name - it does not necessarily have to have a specific path to access the resource.
+E.g. BG personal ID number. To access the person's location, the actual address (URL) will be needed.
+
+URI - Uniform Resource Identifier - a string of characters used to identify the name of a resource and means to access its representation over WWW.
+It obides by strict rules and associated protocols.
+
+URL - Uniform Resource Locator - allows the resource to be accessed - provides information of the resource and how to visualize it - http://..
+the web address and a certain html page for example.
+
