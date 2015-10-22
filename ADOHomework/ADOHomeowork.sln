@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBManipulation", "DBManipulation\DBManipulation.csproj", "{21981B00-22A4-4DCD-9B8C-F190958C5635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelOperations", "ExcelOperations\ExcelOperations.csproj", "{BFBEB925-8E28-468D-94BB-9C5848AC82F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySql", "MySql\MySql.csproj", "{C59021DD-0F0D-47AC-BD3D-161133760399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21981B00-22A4-4DCD-9B8C-F190958C5635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21981B00-22A4-4DCD-9B8C-F190958C5635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21981B00-22A4-4DCD-9B8C-F190958C5635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21981B00-22A4-4DCD-9B8C-F190958C5635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFBEB925-8E28-468D-94BB-9C5848AC82F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBEB925-8E28-468D-94BB-9C5848AC82F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBEB925-8E28-468D-94BB-9C5848AC82F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBEB925-8E28-468D-94BB-9C5848AC82F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C59021DD-0F0D-47AC-BD3D-161133760399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59021DD-0F0D-47AC-BD3D-161133760399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59021DD-0F0D-47AC-BD3D-161133760399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59021DD-0F0D-47AC-BD3D-161133760399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

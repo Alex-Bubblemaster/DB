@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFModelling", "EFModelling\EFModelling.csproj", "{6651A280-2A76-47A2-8E4F-92091038A5D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindTwin", "NorthwindTwin\NorthwindTwin.csproj", "{A2371CA3-08A1-4CCC-A73C-58FBB012A501}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreadAccessToDb", "MultiThreadAccessToDb\MultiThreadAccessToDb.csproj", "{9EC64B70-1B5D-4402-8BDB-2AC9A74335FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6651A280-2A76-47A2-8E4F-92091038A5D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6651A280-2A76-47A2-8E4F-92091038A5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6651A280-2A76-47A2-8E4F-92091038A5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6651A280-2A76-47A2-8E4F-92091038A5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2371CA3-08A1-4CCC-A73C-58FBB012A501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2371CA3-08A1-4CCC-A73C-58FBB012A501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2371CA3-08A1-4CCC-A73C-58FBB012A501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2371CA3-08A1-4CCC-A73C-58FBB012A501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC64B70-1B5D-4402-8BDB-2AC9A74335FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC64B70-1B5D-4402-8BDB-2AC9A74335FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC64B70-1B5D-4402-8BDB-2AC9A74335FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC64B70-1B5D-4402-8BDB-2AC9A74335FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
